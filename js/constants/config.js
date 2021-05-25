@@ -1,4 +1,4 @@
-export const SIZE = 10; // size of table
+export const SIZE = 5; // size of table
 export const HARD_HIGHLIGHT_DURATION = 500; 
 export const HARD_CHECK_INTERVAL = 600;
 export const NORMAL_HIGHLIGHT_DURATION = 1000; 
